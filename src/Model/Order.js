@@ -1,4 +1,4 @@
-import { NAMES, PRICES, TYPES, INITIAL_EA } from '../Constants/Order/Menus.js';
+import { NAMES, PRICES, TYPES, INITIAL_EA } from '../Constants/Menus.js';
 
 class Order {
 	#MENUS = Object.fromEntries(
